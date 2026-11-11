@@ -25,9 +25,13 @@ I'm a Python backend developer with a B.Tech in Computer Science & Engineering. 
 What I do
 
 ⚙️ Build REST APIs and database-driven web apps with Django, Node.js, and Express.js
+
 🤖 Add AI features like object detection and OCR using YOLOv8 and OpenCV
+
 🔐 Secure applications with JWT authentication and role-based access control
+
 🗄️ Design and work with PostgreSQL, MongoDB, and MySQL databases
+
 🧪 Test and debug APIs with Postman, and collaborate using Git/GitHub
 
 Experience: Full Stack Developer Intern at SmartInternz, plus two live, deployed projects (SmartSlot and MediConnect below).
