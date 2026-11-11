@@ -1,166 +1,123 @@
-Hi, I'm Jaya Prakash Maneri
+<h1 align="center">Jaya Prakash Maneri</h1>
+<h3 align="center">Python Backend Developer · AI-Enabled Applications</h3>
 
-Python Backend & AI-Focused Full-Stack Developer
+<p align="center">
+  I build REST APIs, database-backed web apps, and practical AI features, from backend logic to deployed demos.
+</p>
 
-Passionate about building scalable backend systems, REST APIs, and practical AI-enabled applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Entry--Level%20Roles-2ea44f?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%20·%20Open%20to%20Relocation-555555?style=for-the-badge" alt="Location"/>
+</p>
 
----
-
-ABOUT ME
-
-Aspiring Python Backend & AI Engineer with hands-on experience building full-stack web applications, REST APIs, and AI-powered systems using Python, Django, Node.js, PostgreSQL, and OpenCV.
-
-Experienced in backend development, SQL optimization, debugging, API integration, and automation workflows through internships and real-world projects.
-
-Strong interest in backend engineering, AI application development, scalable systems, and software architecture. Continuously improving problem-solving, deployment, and system design skills while building production-style applications.
-
-Currently seeking entry-level Software Engineer, Python Developer, or Backend Developer opportunities to contribute, learn, and grow in engineering-focused environments.
-
----
-
-TECH STACK
-
-Languages
-- Python
-- JavaScript
-- SQL
-
-Backend Development
-- Django
-- Node.js
-- Express.js
-- REST APIs
-- API Integration
-
-AI & Automation
-- YOLOv8
-- OpenCV
-- OCR Workflows
-- AI Applications
-- Automation Workflows
-
-Frontend Development
-- React.js
-- HTML
-- CSS
-- JavaScript
-
-Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-
-Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
-- Docker Basics
-- Linux Basics
-
-Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- SDLC
-- Agile Scrum
-- Debugging
-- Problem Solving
+<p align="center">
+  <a href="https://www.linkedin.com/in/maneri-jaya-prakash9014/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://jayaprakashroya.github.io/Myportfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:manerijayaprakash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-FEATURED PROJECTS
+## About
 
-SmartSlot — AI-Powered Monitoring & Analytics Platform
+B.Tech Computer Science graduate focused on **Python backend development**. I've built full-stack applications with Django and Node.js, designed REST APIs, worked with PostgreSQL and MongoDB, and added AI features (object detection and OCR) using YOLOv8 and OpenCV.
 
-Live Demo:
-https://smartslot-r2kq.onrender.com/
+I'm looking for an **entry-level Software Engineer, Python Developer, or Backend Developer** role where I can contribute to real products and keep growing as an engineer.
 
-GitHub Repository:
-https://github.com/jayaprakashroya/SmartSlot
+---
 
-Features
-- Real-time AI-powered monitoring system
-- Object detection using YOLOv8
-- OCR workflows with OpenCV
-- REST API integration
-- PostgreSQL optimization for real-time processing
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/REST_APIs-0A7BBB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST_APIs"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+---
+
+## Featured Projects
+
+### SmartSlot: AI-Powered Parking Monitoring Platform
+Web platform that monitors and manages parking-space data, using computer vision to detect occupancy.
+
+- Object detection with **YOLOv8** and OCR workflows with **OpenCV**
+- REST APIs connecting application components
+- **PostgreSQL** schema built for real-time data handling
 - Automated analytics and monitoring workflows
 
-Tech Stack
-Python, Django, PostgreSQL, YOLOv8, OpenCV
+**Stack:** `Python` `Django` `PostgreSQL` `YOLOv8` `OpenCV`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://smartslot-r2kq.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/jayaprakashroya/SmartSlot)
 
 ---
 
-MediConnect — Full Stack Healthcare Management Platform
+### MediConnect: Healthcare Appointment Booking Platform
+Full-stack app where patients book doctor appointments and users get role-appropriate access.
 
-Live Demo:
-https://medi-connect-seamless-appointment-b.vercel.app/
+- **JWT authentication** and role-based access control
+- REST APIs for users and appointments, tested with Postman
+- Responsive React frontend integrated with an Express + MongoDB backend
 
-GitHub Repository:
-https://github.com/jayaprakashroya/MediConnect-Seamless-Appointment-Booking-for-Health
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
-Features
-- Doctor appointment booking platform
-- JWT Authentication
-- Role-based access control
-- Backend API workflows
-- Responsive frontend integration
-- Backend optimization and debugging
-
-Tech Stack
-React.js, Node.js, Express.js, MongoDB
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://medi-connect-seamless-appointment-b.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/jayaprakashroya/MediConnect-Seamless-Appointment-Booking-for-Health)
 
 ---
 
-INTERNSHIP EXPERIENCE
+## Experience
 
-Full Stack Developer Intern — SmartInternz
+**Full Stack Developer Intern · SmartInternz**
 
-- Developed backend services and REST APIs using Node.js and Express.js
-- Assisted in debugging, API testing, and backend integration workflows
-- Optimized SQL queries and backend processes for better performance
-- Worked in Agile Scrum environments using Git/GitHub workflows
-- Participated in coding, testing, troubleshooting, and technical documentation activities
-
----
-
-CERTIFICATIONS
-
-- AI Deployment & Automation — EduSkills
-- Programming for Everybody (Python) — Coursera
-- Full Stack Development (MERN) — SmartBridge / APSCHE
-- Generative AI Virtual Internship — Google Cloud & EduSkills
-- Data Analytics with Tableau — SmartBridge
+- Built backend services and REST API components with **Node.js and Express.js**
+- Debugged and tested APIs with **Postman**
+- Worked in an Agile Scrum workflow with Git/GitHub version control
+- Contributed to testing, troubleshooting, and technical documentation
 
 ---
 
-CURRENT FOCUS
+## Education & Certifications
 
-- Building scalable backend APIs using Django & FastAPI
-- Exploring AI integrations and automation workflows
-- Improving system design and deployment skills
+**B.Tech, Computer Science & Engineering**: Sanskrithi School of Engineering (JNTUA), CGPA 7.68/10
+
+- AI Deployment & Automation, EduSkills
+- Programming for Everybody (Python), Coursera
+- Full Stack Development (MERN), SmartBridge / APSCHE
+- Generative AI Virtual Internship, Google Cloud & EduSkills
+- Data Analytics with Tableau, SmartBridge
+
+---
+
+## Currently
+
+- Building backend APIs with Django and FastAPI
+- Learning deployment and system design
 - Practicing Data Structures & Algorithms
 
 ---
 
-INTERESTS
+## Get in Touch
 
-Backend Engineering • AI Applications • API Design • System Design • Automation • Cloud Deployment
-
----
-
-CONNECT WITH ME
-
-LinkedIn:
-https://www.linkedin.com/in/maneri-jaya-prakash9014/
-
-Portfolio:
-https://jayaprakashroya.github.io/Myportfolio/
-
-GitHub:
-https://github.com/jayaprakashroya
-
----
-
-Focused on building reliable backend systems and practical AI-enabled applications.
+[LinkedIn](https://www.linkedin.com/in/maneri-jaya-prakash9014/) · [Portfolio](https://jayaprakashroya.github.io/Myportfolio/) · [manerijayaprakash@gmail.com](mailto:manerijayaprakash@gmail.com)
