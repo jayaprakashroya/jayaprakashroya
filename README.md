@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maneri-jaya-prakash9014/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jayaprakashroya.github.io/Myportfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://jayaprakashroya.github.io/Myportofolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:manerijayaprakash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -120,4 +120,4 @@ Full-stack app where patients book doctor appointments and users get role-approp
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/maneri-jaya-prakash9014/) · [Portfolio](https://jayaprakashroya.github.io/Myportfolio/) · [manerijayaprakash@gmail.com](mailto:manerijayaprakash@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maneri-jaya-prakash9014/) · [Portfolio](https://jayaprakashroya.github.io/Myportofolio/) · [manerijayaprakash@gmail.com](mailto:manerijayaprakash@gmail.com)
