@@ -1,4 +1,4 @@
-<h1 align="center">Jaya Prakash Maneri</h1>
+<h1 align="center">Maneri Jaya Prakash</h1>
 <h3 align="center">Python Backend Developer · AI-Enabled Applications</h3>
 
 <p align="center">
